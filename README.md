@@ -2,7 +2,7 @@
 
 **A basic Tic Tac Toe game built using HTML/JavaScript/CSS. No dependencies.** 
 
-[![View The Demo](https://www.mtb.com/personal/onlineservices/PublishingImages/alt-banking-button-view-demo-cs5452.jpg)](https://parthmadhvani2.github.io/tic-tac-toe/)
+[Let's play!!](https://parthmadhvani2.github.io/tic-tac-toe/)
 
 
 ##How to get started
